@@ -31,3 +31,7 @@ elixir --version
     * Cowboy (web server in Erlang provided as an adapter by Plug)
   * Nerves - https://hexdocs.pm/nerves/getting-started.html
     * Build and deploy Nerves firmware bundle (embedded systems) containing a minimal Linux platform and Elixir app. Nerve fetches the system and toolchain from the cloud upon compilation of the bundle dependencies
+  * Learn Elixir with [DockYard Academy](https://github.com/DockYard-Academy)
+  * [ASDF VM](https://asdf-vm.com/) for Multiple Runtime Version Control (i.e. combines NVM, PyEnv, RBEnv, etc)
+  * [Livebook.dev](https://livebook.dev/) for interactive notebooks for Elixir (similar to Python's Jupiter Notebooks)
+  * [Dev Containers](https://docs.github.com/en/codespaces/setting-up-your-project-for-codespaces/adding-a-dev-container-configuration/introduction-to-dev-containers) on Github
